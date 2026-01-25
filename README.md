@@ -47,3 +47,9 @@ The system uses a singly linked list where each node represents a student record
 This project helps in understanding linked lists, pointer manipulation, dynamic memory management, and how data structures are used to solve real-world record management problems.
 
 ---
+
+## Author
+
+Dheekshita R
+
+---
